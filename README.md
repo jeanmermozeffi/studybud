@@ -1,0 +1,2 @@
+# studybud
+Python with django 
